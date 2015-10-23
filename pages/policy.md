@@ -6,7 +6,11 @@ description: "Policy"
 ---
 ## **Policy**
 
-Agencies are required to establish a comprehensive approach to improve the acquisition and management of their information resources, by: performing information resources management activities in an efficient, effective, economical, secure, and privacy-enhancing manner; focusing information resources planning to support their strategic missions; implementing a IT investment management process that links to and supports budget formulation and execution; and rethinking and restructuring the way work is performed before investing in new information systems.
+Agencies are required to establish a comprehensive approach to improve the acquisition and management of their information resources.  To accomplish this they must do the following. 
+1.  Perform information resources management activities in an efficient, effective, economical, secure, and privacy-enhancing manner. 
+2.  Align planning and information resources with strategic missions. 
+3.  Implement an IT investment management process that links to and supports budget formulation and execution in a cost effective manner.
+4.  Rethink and restructure the way decisions are made and work is performed before investing in new information systems.
 
 #### **a. Planning and Budgeting**
 
@@ -14,19 +18,19 @@ Agencies shall establish agency-wide planning and budgeting processes in accorda
 
 **1) Strategic Planning**
 
-In support of agency missions and business needs, and as part of the agency's overall strategic and performance planning processes, agencies shall develop and maintain an Agency Information Strategy that describes the agency's technology and information resources goals, including but not limited to the processes described in this Circular. The Agency Information Strategy shall support the goals of the Agency Strategic Plan required by the Government Performance and Results Modernization Act of 2010 (GPRA Modernization Act). The Agency Information Strategy shall demonstrate how these goals map to the agency's mission and organizational priorities. These goals should be specific, verifiable, and measurable, so that progress against these goals can be tracked. The agency should review its Agency Information Strategy annually alongside the Annual Performance Plan reviews, required by the GPRA Modernization Act, to determine if there are any performance gaps or changes to mission needs, priorities, or goals. As part of the planning and maintenance of an effective Information Strategy, agencies shall consider the following, in addition to all other requirements in this Circular:
+In support of agency missions and business needs, and as part of the agency's overall strategic and performance planning processes, agencies shall develop and maintain an Agency Information Strategy that describes the agency's technology and information resources goals, including but not limited to the processes described in this Circular. The Agency Information Strategy shall support the goals of the Agency Strategic Plan required by the Government Performance and Results Modernization Act of 2010 (GPRA Modernization Act). The Agency Information Strategy shall demonstrate how these goals map to the agency's mission and organizational priorities. These goals should be specific, verifiable, and measurable, so that progress against these goals can be tracked. The agency should review its Agency Information Strategy annually alongside the Annual Performance Plan reviews, required by the GPRA Modernization Act, to determine if there are any performance gaps or changes to mission needs, priorities, or goals. As part of the planning and maintenance of an effective Information Strategy, agencies shall consider the following, in addition to all other requirements in this Circular.
 
-  a) Taking explicit account of information resources and information technology (IT) assets, personnel, and policies when planning, budgeting, and executing Federal programs and services;
+  a) Take explicit account of information resources and information technology (IT) assets, personnel, and policies when planning, budgeting, and executing Federal programs and services.
   
-  b) Maintaining an inventory of the agency's major information systems, holdings, and dissemination products; a description of the agency's major information and record locator systems; an inventory of the agency's other information resources, such as personnel and funding (at the level of detail that the agency determines is most appropriate for its use in managing the agency's information resources); and an online resource for persons to obtain public information from the agency;<sup id="fnr2"><a href="#fn2">2</a></sup>  
+  b) Maintain an inventory of the agency's major information systems, holdings, and dissemination products; a description of the agency's major information and record locator systems; an inventory of the agency's other information resources, such as personnel and funding (at the level of detail that the agency determines is most appropriate for its use in managing the agency's information resources); and an online resource for persons to obtain public information from the agency.<sup id="fnr2"><a href="#fn2">2</a></sup>  
   
-  c) Regularly assess throughout the life of each information system, the inventory of the physical and software assets associated with the system, the maintainability and supportability of the information resources and infrastructure supporting the system, and actively determine when significant upgrades, replacements and/or disposition is required to effectively support agency missions or business functions and/or adequately protect agency assets;
+  c) Regularly assess throughout the life of each information system, the inventory of the physical (What does "physical" mean?) and software assets associated with the system, the maintainability and supportability of the information resources and infrastructure supporting the system, and actively determine when significant upgrades, replacements and/or disposition is required to effectively support agency missions or business functions and/or adequately protect agency assets.
   
-  d) Ensuring the terms and conditions of contracts involving the processing, storage, access to, transmission, and destruction of Federal information are sufficient to enable agencies to meet their policy and legal requirements;
+  d) Ensure the terms and conditions of contracts involving the processing, storage, access to, transmission, and destruction of Federal information are sufficient to enable agencies to meet their policy and legal requirements.
   
-  e) Ensuring that all resources planning and management activities consider information security, privacy, and supply chain security issues throughout the system development life cycle and that the risks associated with those issues are appropriately managed; and
+  e) Ensure that all resources planning and management activities consider information security, privacy, and supply chain security issues throughout the system development life cycle and that the risks associated with those issues are appropriately managed.
   
-  f) Ensuring that CIOs are made aware of information systems and components that cannot be appropriately protected or secured and that such systems are given a high priority for upgrade, replacement, or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
+  f) Ensure that CIOs are made aware of information systems and components that cannot be appropriately protected or secured and that such systems are given a high priority for upgrade, replacement, or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
 
 **2) Business Continuity Planning**
 
@@ -38,21 +42,21 @@ Agencies shall, in accordance with FITARA and related OMB policy:
 
   a) Ensure that information technology resources are distinctly identified and separated from non-information technology resources during the planning, programming, and budgeting process in a manner that affords agency CIOs appropriate visibility and specificity to provide effective management and oversight of information technology resources. The manner should be jointly determined by Program leadership, the Chief Financial Officer (CFO) and Chief Information Officer (CIO).
   
-  b) Ensure the agency-wide budget development process includes the CFO, Chief Acquisition Officer (CAO), and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily IT oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by which program leadership works with the CIO to plan an overall portfolio of IT resources that achieve program and business objectives efficiently and effectively by:
+  b) Ensure the agency-wide budget development process includes the CFO, Chief Acquisition Officer (CAO), and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily IT oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by which program leadership works with the CIO to plan an overall portfolio of IT resources that achieve program and business objectives efficiently and effectively by doing the following.
 
-  i. Weighing potential and ongoing investments and their underlying capabilities against other proposed and ongoing investments in the portfolio; and 
+  i. Weigh and prioritize potential and ongoing investments and their underlying capabilities against other proposed and ongoing investments in the portfolio. 
   
-  ii.Identifying gaps between planned and actual cost, schedule, and performance goals for IT investments and identifying strategies and time frames to close such gaps.
+  ii.Identify gaps between planned and actual cost, schedule, and performance goals for IT investments and identify strategies and time frames to close such gaps.
 
   c) Ensure the CIO approves the IT components of any plans, through a process defined by the agency head that balances IT investments with other uses of agency funding. Agencies shall also ensure the CIO is included in the internal planning processes for how the agency uses IT resources to achieve its objectives at all points in their lifecycle, including operations and disposition or migration.
 
-  d) Ensure that agency budget justification materials, in their initial budget submission to OMB, include a statement that affirms:
+  d) Ensure that agency budget justification materials, in their initial budget submission to OMB, include a statement that affirms that:
   
   i.The CIO has reviewed and approves the major IT investments portion of the budget request;
   
   ii.The CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
   
-  iii.The IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
+  iii.The IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request;
 
   e) Ensure the CFO, CAO, and CIO define agency-wide policy for the level of detail of planned expenditure reporting for all transactions that include IT resources.
 
@@ -60,9 +64,11 @@ Agencies shall, in accordance with FITARA and related OMB policy:
 
 In support of agency missions and business needs, and in coordination with program managers, agencies shall:
 
-1) Define, implement, and maintain processes, standards, and policies applied to all information resources at the agency, in accordance with OMB guidance.
+1) Define, implement, and maintain processes, standards, and policies applied to all information resources at the agency, in accordance with OMB guidance;
 
-2) Ensure that the CIO defines the development processes, milestones, review gates, and the overall policies for all strategy, business alignment, and investment planning, enterprise architecture, project management and reporting for information technology resources. The CIO should ensure that such processes and policies address IT resources appropriately. At a minimum, these processes and policies shall ensure:
+2) Ensure that the CIO defines the development processes, milestones, review gates, and the overall policies for all strategy, business alignment, and investment planning, enterprise architecture, project management and reporting for information technology resources. 
+
+3) Ensure that such processes and policies address IT resources appropriately. At a minimum, these processes and policies shall ensure:
 
   a) The CIO certifies that IT systems are appropriately implementing incremental development;
   
@@ -86,15 +92,17 @@ Agencies shall:
 
 1) Ensure the CIO and CHCO develop a set of competency requirements for IT staff, including information security and IT leadership positions, and develop and maintain a current workforce planning process to ensure the agency can:
 
-  a) Anticipate and respond to changing mission requirements,
+  a) Anticipate and respond to changing mission requirements;
   
-  b) Maintain workforce skills in a rapidly developing IT environment, and
+  b) Maintain workforce skills in a rapidly developing IT environment; and
   
   c) Recruit and retain the IT talent needed to accomplish the mission.
 
-2) Ensure the workforce related to acquiring, managing, maintaining, and using information resources has the appropriate knowledge and skill for facilitating the achievement of the performance goals established for the portfolio and evaluate the extent to which the executive-level workforce of the agency has appropriate information and technology related knowledge and skills.
+2) Ensure the workforce related to acquiring, managing, maintaining, and using information resources has the appropriate knowledge and skill for facilitating the achievement of the performance goals established for the portfolio.
 
-3) Ensure the Chief Human Capital Officer (CHCO) and CIO jointly establish an agency-wide critical element (or elements) to be included in all bureau CIOs' performance evaluations. In addition, the CIO shall identify "key bureau CIOs" and provide input to the rating official for at least all "key bureau CIOs" at the time of the initial summary rating and for any required progress reviews. The rating official will consider the input from the CIO when determining the initial summary rating and discuss it with the bureau CIO during progress reviews.
+3) Evaluate the extent to which the executive-level workforce of the agency has appropriate information and technology related knowledge and skills.
+
+4) Ensure the Chief Human Capital Officer (CHCO) and CIO jointly establish an agency-wide critical element (or elements) to be included in all bureau CIOs' performance evaluations. In addition, the CIO shall identify "key bureau CIOs" and provide input to the rating official for at least all "key bureau CIOs" at the time of the initial summary rating and for any required progress reviews. The rating official will consider the input from the CIO when determining the initial summary rating and discuss it with the bureau CIO during progress reviews.
 
 4) Ensure the CIO is involved in the recruitment and approves the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title). The title and responsibilities of current bureau CIOs may be designated or transferred to other agency personnel by the agency head or his or her designee as appropriate, and such decisions may take into consideration recommendations from the agency CIO.
 
@@ -144,7 +152,11 @@ Agencies are responsible for establishing a decision-making process that provide
   
   f) Qualitative and quantitative research methods are used to determine the goals, needs, and behaviors of current and prospective managers and users of the service to strengthen the understanding of requirements;
   
-  g) Priority in the selection of information system technologies and services, should be given in the following order: First, to the use of available and suitable existing Federal information systems, software, technologies, and shared services and/or information processing facilities; Second, to the acquisition of commercially available off-the-shelf components and/or software-as-a-service solutions; and Third, to custom developed software and technologies. All proposed solutions should be merit-based and consider factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support. Decisions to acquire or develop custom or duplicative solutions must be justified based on comparative analysis conducted in a technology neutral manner that is merit-based and considers factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support, analysis of overall cost-effectiveness of the solution throughout the life cycle, the ability to meet acceptable levels of security, and the ability to meet specific and high-priority mission or operational requirements. To the degree possible, any custom software development activity or custom software acquisition should include contractual rights for re-use throughout the Federal government;
+  g) Priority in selecting information system technologies and services should be given in the following order: 
+  
+    i. First, to the use of available and suitable existing Federal information systems, software, technologies, and shared services and/or information processing facilities;
+    11. Second, to the acquisition of commercially available off-the-shelf components and/or software-as-a-service solutions; and;
+    iii. Third, to custom developed software and technologies. Decisions to acquire or develop custom or duplicative solutions must be justified based on comparative analysis conducted in a technology neutral manner that is merit-based and considers factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support, analysis of overall cost-effectiveness of the solution throughout the life cycle, the ability to meet acceptable levels of security, and the ability to meet specific and high-priority mission or operational requirements. To the degree possible, any custom software development activity or custom software acquisition should include contractual rights for re-use throughout the Federal government;
   
   h) Information technology needs are met through acquiring scalable, provisioned IT services<sup id="fnr7"><a href="#fn7">7</a></sup> when it is cost-effective to do so rather than the agency developing its own information system or equipment;
   
@@ -164,7 +176,7 @@ Agencies are responsible for establishing a decision-making process that provide
 
 **3) Enterprise Architecture**
 
-Agencies shall develop an actionable enterprise architecture (EA) that describes the baseline architecture, target architecture, and a plan to get to the target architecture. The EA shall also address agency plans for significant upgrades, replacements and/or disposition of information systems when the systems can no longer effectively support missions or business functions or adequately protect agency needs. The intent is to align business and technology resources to achieve strategic outcomes. The process of describing the current and future state of the agency, and laying out a plan for transitioning from the current state to the desired future state, helps agencies eliminate waste and duplication, increase shared services, close performance gaps, and promote engagement among government, industry, and citizens.
+Agencies shall develop an actionable enterprise architecture (EA) that describes the baseline architecture, target architecture, and a transition plan to get to the target architecture. The EA shall also address agency plans for significant upgrades, replacements and/or disposition of information systems when the systems can no longer effectively support missions or business functions or adequately support agency needs. The intent is to align business and technology resources to achieve strategic outcomes; with the focus on technological enablers that promote more effective and efficient business operations. The process of describing the current and future state of the agency, and laying out a plan for transitioning from the current state to the desired future state, helps agencies eliminate waste and duplication, increase shared services, close performance gaps, and promote engagement among government, industry, and citizens.
 
 #### e. Privacy and Information Security
 
@@ -224,7 +236,7 @@ Agencies shall:
 
 1) Agencies shall incorporate in planning, budgeting, governance, and other policies appropriate steps to ensure that:
 
- a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; and
+ a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; 
 
  b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the extent permitted by statute and subject to existing terms and conditions, privacy, security, and other valid restrictions pertaining to access, use, and dissemination; and
 
@@ -234,7 +246,7 @@ Agencies shall:
 
  a) Collect or create information in a way that supports downstream interoperability among information systems and streamlines dissemination to the public, where appropriate, by:
  
-  i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
+  i. Creatingor collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
  
   ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall include appropriate provisions in contracts to meet objectives of open data while recognizing that contractors may have proprietary interests in such information, and that protection of such information may be necessary to encourage qualified contractors to participate in and apply innovative concepts to government programs.
   
